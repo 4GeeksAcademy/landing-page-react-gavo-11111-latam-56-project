@@ -8,10 +8,12 @@ import Navbar from "./navbar.jsx";
 const Home = () => {
   return (
     <>
-      <Navbar />
-      <main className="container">
+       <Navbar />
+      <main className="container px-5">
+       
         <Jumbotron />
         <CardJoined />
+        
       </main>
       <Footer />
     </>

@@ -2,8 +2,9 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand navbar-dark bg-dark">
-      <div className="container-fluid">
+   
+      <nav className="navbar navbar-expand navbar-dark bg-dark">
+      <div className="container px-5">
         <a className="navbar-brand" href="#">
           Start Bootstrap
         </a>
